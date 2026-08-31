@@ -16,7 +16,7 @@ export const GALLERY_DATA: GalleryItem[] = [
     title: 'Interactive ICT & Coding Guidance',
     subtitle: 'Mentoring young learners and peers hands-on at the workstation with modern software & logic.',
     category: 'teacher',
-    imageUrl: 'https://raw.githubusercontent.com/Jayasankha-dev/English-For-Kids/refs/heads/main/src/assets/images/teacher_ict_lab_1788133712882.jpg',
+    imageUrl: 'https://raw.githubusercontent.com/DeshaniBandara/English-Class/refs/heads/main/src/assets/images/IMG-20260820-WA0098.jpg',
     tag: 'ICT & Tech Mentoring',
     tagColor: 'bg-[#2E7D32] text-white',
     mediaType: 'image',
